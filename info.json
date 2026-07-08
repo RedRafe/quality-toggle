@@ -1,13 +1,13 @@
 {
-  "name": "factorio-mod-template",
+  "name": "quality-toggle",
   "version": "0.1.0",
-  "title": "Factorio Mod Template",
+  "title": "Quality Toggle",
   "author": "RedRafe",
-  "source": "https://github.com/RedRafe/factorio-mod-template",
-  "homepage": "https://mods.factorio.com/mod/factorio-mod-template",
+  "source": "https://github.com/RedRafe/quality-toggle",
+  "homepage": "https://mods.factorio.com/mod/quality-toggle",
   "dependencies": [
     "base >= 2.1"
   ],
-  "description": "A ready-to-use template for Factorio mods",
+  "description": "Toggles quality ON/OFF",
   "factorio_version": "2.1"
 }
